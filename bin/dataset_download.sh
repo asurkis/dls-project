@@ -6,3 +6,4 @@ wget https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/facade
 gunzip facades.tar.gz
 tar -xf facades.tar
 rm facades.tar
+cd ../..
