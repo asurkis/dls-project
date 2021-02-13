@@ -33,62 +33,35 @@
 (слева &mdash; разметка, по центру &mdash; реальное изображение,
 справа &mdash; сгенерированный фасад):
 
-10 эпох:<br>![](report/010.png)
-
-20 эпох:<br>![](report/020.png)
-
-30 эпох:<br>![](report/030.png)
-
-40 эпох:<br>![](report/040.png)
-
-50 эпох:<br>![](report/050.png)
-
-60 эпох:<br>![](report/060.png)
-
-70 эпох:<br>![](report/070.png)
-
-80 эпох:<br>![](report/080.png)
-
-90 эпох:<br>![](report/090.png)
-
-100 эпох:<br>![](report/100.png)
-
-110 эпох:<br>![](report/110.png)
-
-120 эпох:<br>![](report/120.png)
-
-130 эпох:<br>![](report/130.png)
-
-140 эпох:<br>![](report/140.png)
-
-150 эпох:<br>![](report/150.png)
-
-160 эпох:<br>![](report/160.png)
-
-170 эпох:<br>![](report/170.png)
-
-180 эпох:<br>![](report/180.png)
-
-190 эпох:<br>![](report/190.png)
-
-200 эпох:<br>![](report/200.png)
-
-210 эпох:<br>![](report/210.png)
-
-220 эпох:<br>![](report/220.png)
-
-230 эпох:<br>![](report/230.png)
-
-240 эпох:<br>![](report/240.png)
-
-250 эпох:<br>![](report/250.png)
-
-260 эпох:<br>![](report/260.png)
-
-270 эпох:<br>![](report/270.png)
-
-280 эпох:<br>![](report/280.png)
-
-290 эпох:<br>![](report/290.png)
-
-300 эпох:<br>![](report/300.png)
+| Время обучения | Результат |
+|:---:|:---:|
+| 10 эпох  | ![](report/010.png) |
+| 20 эпох  | ![](report/020.png) |
+| 30 эпох  | ![](report/030.png) |
+| 40 эпох  | ![](report/040.png) |
+| 50 эпох  | ![](report/050.png) |
+| 60 эпох  | ![](report/060.png) |
+| 70 эпох  | ![](report/070.png) |
+| 80 эпох  | ![](report/080.png) |
+| 90 эпох  | ![](report/090.png) |
+| 100 эпох | ![](report/100.png) |
+| 110 эпох | ![](report/110.png) |
+| 120 эпох | ![](report/120.png) |
+| 130 эпох | ![](report/130.png) |
+| 140 эпох | ![](report/140.png) |
+| 150 эпох | ![](report/150.png) |
+| 160 эпох | ![](report/160.png) |
+| 170 эпох | ![](report/170.png) |
+| 180 эпох | ![](report/180.png) |
+| 190 эпох | ![](report/190.png) |
+| 200 эпох | ![](report/200.png) |
+| 210 эпох | ![](report/210.png) |
+| 220 эпох | ![](report/220.png) |
+| 230 эпох | ![](report/230.png) |
+| 240 эпох | ![](report/240.png) |
+| 250 эпох | ![](report/250.png) |
+| 260 эпох | ![](report/260.png) |
+| 270 эпох | ![](report/270.png) |
+| 280 эпох | ![](report/280.png) |
+| 290 эпох | ![](report/290.png) |
+| 300 эпох | ![](report/300.png) |
